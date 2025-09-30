@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Sobre Mí
 subtitle: Ciencia de Datos & Astronomía
 ---
 
@@ -15,6 +15,11 @@ Trabajo en la intersección entre **machine learning** y **astrofísica**, desar
 
 ---
 
-📫 Podés contactarme en: [nicolas.ottero@gmail.com](mailto:nicolas.ottero@gmail.com)  
-🔗 O visitar mis perfiles: [GitHub](https://github.com/nico-ottero) · [Kaggle](https://www.kaggle.com/nicoottero) · [LinkedIn](https://linkedin.com/in/nico-ottero)
+### 📬 Contacto & Perfiles
+
+[![Gmail](https://img.shields.io/badge/Gmail-nicolas.ottero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolás%20Ottero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolás-ottero-68b8182b8/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-nicolsottero-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nicolsottero)
+[![GitHub](https://img.shields.io/badge/GitHub-nico--ottero-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nico-ottero)
+
 
