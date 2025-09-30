@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Ciencia de Datos & Astronomía
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+¡Hola! Soy **Nicolás Ottero**, científico de datos con formación en astronomía.  
+Trabajo en la intersección entre **machine learning** y **astrofísica**, desarrollando modelos para el análisis automatizado de grandes volúmenes de datos astronómicos.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Experiencia destacada
+???
 
-What else do you need?
+### Mi historia
+???
 
-### My story
+---
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+📫 Podés contactarme en: [nicolas.ottero@gmail.com](mailto:nicolas.ottero@gmail.com)  
+🔗 O visitar mis perfiles: [GitHub](https://github.com/nico-ottero) · [Kaggle](https://www.kaggle.com/nicoottero) · [LinkedIn](https://linkedin.com/in/nico-ottero)
+
