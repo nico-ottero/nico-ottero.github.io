@@ -19,56 +19,15 @@ author: Nicolás Ottero
 # --- List of links in the navigation bar --- #
 ###############################################
 
-<ul class="navbar-nav ml-auto">
-
-  <!-- Inicio -->
-  <li class="nav-item">
-    <a class="nav-link" href="/">Inicio</a>
-  </li>
-
-  <!-- Proyecto principal -->
-  <li class="nav-item">
-    <a class="nav-link" href="/carbonstars">Proyecto Carbon Stars</a>
-  </li>
-
-  <!-- Sobre mí -->
-  <li class="nav-item">
-    <a class="nav-link" href="/aboutme">Sobre Mí</a>
-  </li>
-
-  <!-- Contacto -->
-  <li class="nav-item">
-    <a class="nav-link" href="mailto:nicolas.ottero@gmail.com">
-      <i class="fas fa-envelope"></i> Contacto
-    </a>
-  </li>
-
-  <!-- GitHub -->
-  <li class="nav-item">
-    <a class="nav-link" href="https://github.com/nico-ottero" target="_blank">
-      <i class="fab fa-github"></i> GitHub
-    </a>
-  </li>
-
-  <!-- Kaggle -->
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.kaggle.com/nicolsottero" target="_blank">
-      <img src="https://www.kaggle.com/static/images/site-logo.svg"
-           style="height:16px; vertical-align:middle; margin-right:4px;"> Kaggle
-    </a>
-  </li>
-
-  <!-- LinkedIn -->
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.linkedin.com/in/nicol%C3%A1s-ottero-68b8182b8/" target="_blank">
-      <i class="fab fa-linkedin"></i> LinkedIn
-    </a>
-  </li>
-
-</ul>
-
-
-
+navbar-links:
+  GitHub: "https://github.com/nico-ottero"
+  Kaggle: "https://www.kaggle.com/nicolsottero"
+  AstroBot: "aboutme"
+    Proyectos:
+    - Opción 1: "https://google.com"
+    - Opción 2: "https://google.com"
+  Contacto: "aboutme"
+  Sobre Mí: "aboutme"
 
 ################
 # --- Logo --- #
