@@ -20,11 +20,11 @@ author: Nicolás Ottero
 ###############################################
 
 navbar-links:
+  Proyectos:
+    - Opción 1: "https://google.com"
+    - Opción 2: "https://google.com"
+  Contacto: "https://google.com"
   Sobre Mí: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
