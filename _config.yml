@@ -23,11 +23,12 @@ navbar-links:
   GitHub: "https://github.com/nico-ottero"
   Kaggle: "https://www.kaggle.com/nicolsottero"
   AstroBot: "aboutme"
-    Proyectos:
+  Proyectos:
     - Opción 1: "https://google.com"
     - Opción 2: "https://google.com"
   Contacto: "aboutme"
   Sobre Mí: "aboutme"
+
 
 ################
 # --- Logo --- #
