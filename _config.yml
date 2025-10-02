@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Nicolás Ottero – Data Science & Astronomy
+title: Data Science & Astronomy
 
 # Your name to show in the footer
 author: Nicolás Ottero
@@ -41,6 +41,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
+title: Home
 title-img: "/assets/img/logo.jpg"
 
 
