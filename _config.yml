@@ -20,7 +20,7 @@ author: Nicolás Ottero
 ###############################################
 
 navbar-links:
-  AstroBot: "astrobot.md"
+  AI Conversational Assistant for Astronomy Data Project: "astrobot"
   Noticias Astrofísicas: "aboutme"
   Contacto: "aboutme"
   Sobre Mí: "aboutme"
