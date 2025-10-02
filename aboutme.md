@@ -1,21 +1,11 @@
 ---
 layout: page
-title: Sobre Mí
+title: Contacto
 subtitle: Ciencia de Datos & Astronomía
 ---
-
-¡Hola! Soy **Nicolás Ottero**, científico de datos con formación en astronomía.  
-Trabajo en la intersección entre **machine learning** y **astrofísica**, desarrollando modelos para el análisis automatizado de grandes volúmenes de datos astronómicos.
-
-### Experiencia destacada
-???
-
-### Mi historia
-???
-
+Gracias por visitar mi sitio. Estoy abierto a propuestas, proyectos o simplemente intercambiar ideas.
 ---
-
-### 📬 Contacto & Perfiles
+Contacto & Perfiles
 
 [![Gmail](https://img.shields.io/badge/Gmail-nicolas.ottero%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.ottero@gmail.com)
 
