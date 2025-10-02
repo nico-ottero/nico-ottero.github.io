@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conversational AI for Astronomy Data
+title: Conversational AI for Astronomers
 permalink: /astrobot/
 ---
 
