@@ -23,9 +23,9 @@ navbar-links:
   AstroBot Project: "astrobot"
   # Noticias Astrofísicas: "noticias"
   Contacto: "aboutme"
-  Sobre Mí: "aboutme"
-  GitHub: "https://github.com/nico-ottero"
-  Kaggle: "https://www.kaggle.com/nicolsottero"
+  # Sobre Mí: "aboutme"
+  Mi GitHub: "https://github.com/nico-ottero"
+  Mi Kaggle: "https://www.kaggle.com/nicolsottero"
 
 
 ################
