@@ -10,8 +10,13 @@ permalink: /astrobot/
 <h2>AI-powered assistant designed to support astronomical workflows.</h2>
 
 <!-- Texto principal -->
-<p>AstroBot is a professional-grade conversational assistant designed to support astronomical data workflows through natural language interaction. I am developing this tool as part of a research scholarship awarded by the Instituto de Data Science Argentina (IDSA), under the direction of PhD. Ignacio Urteaga. The system is built with a modular architecture that integrates NLP pipelines, astronomical catalog access, and structured interaction logic. Although the technical details and implementation cannot be publicly disclosed due to confidentiality agreements, AstroBot is being developed at a high level of software and data engineering standards, with a focus on usability, performance, and domain-specific relevance for astronomy research.
+<p>
+<strong>AstroBot</strong> is a professional-grade conversational assistant designed to support <strong>astronomical data workflows</strong> through <strong>natural language interaction</strong>.  
+I am developing this tool as part of a <strong>research scholarship</strong> awarded by the <strong>Instituto de Data Science Argentina (IDSA)</strong>, under the direction of <strong>PhD. Ignacio Urteaga</strong>.  
+The system is built with a <strong>modular architecture</strong> that integrates <strong>NLP pipelines</strong>, <strong>astronomical catalog access</strong>, and <strong>structured interaction logic</strong>.  
+Although the <strong>technical details and implementation</strong> cannot be publicly disclosed due to <strong>confidentiality agreements</strong>, <strong>AstroBot</strong> is being developed at a high level of <strong>software and data engineering standards</strong>, with a focus on <strong>usability</strong>, <strong>performance</strong>, and <strong>domain-specific relevance for astronomy research</strong>.
+</p>
 
-
+<p>
 <strong>Developed under a research scholarship from the Instituto de Data Science Argentina (IDSA).</strong>
 </p>
