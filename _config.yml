@@ -21,7 +21,7 @@ author: Nicolás Ottero
 
 navbar-links:
   AstroBot Project: "astrobot"
-  Noticias Astrofísicas: "noticias"
+  # Noticias Astrofísicas: "noticias"
   Contacto: "aboutme"
   Sobre Mí: "aboutme"
   GitHub: "https://github.com/nico-ottero"
